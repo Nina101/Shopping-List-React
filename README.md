@@ -2,7 +2,7 @@
 ## Introduction
 
 Demo of basic React by simple shopping list app.
-The shopping list allow adding, crossing out, removing items from the list.
+The shopping list allows adding, crossing out, removing items from the list.
 
 Code pen version: https://codepen.io/hei123/pen/JmyXxz
 
@@ -14,7 +14,7 @@ Nodejs installation include [npm](https://www.npmjs.com/) that would be used lat
 
 2. Using terminal to check whether npm installed
     - Window: search for `cmd`, launch it then type `npm --version`.
-    - Mac:  cmd+spacebar then search for `terminal`, launch it then type `npm --version`.
+    - Mac:  press `cmd+spacebar` then search for `terminal`, launch it then type `npm --version`.
     
     If npm is installed correctly, it should show a version number.
     If not, you can try reinstall Nodejs.
