@@ -21,7 +21,7 @@ Nodejs installation include [npm](https://www.npmjs.com/) that would be used lat
 
 3. Download the repo as zip or using git clone then unzip it.
 4. Running the application
-    - Launch terminal or command prompt
+    - Launch terminal or command prompt (step 2)
     - Go to extracted folder using `cd` command
     - Type `npm install`, this command is used to install dependencies for the project
     - Type `npm start`, this command is used to run the project
