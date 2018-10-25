@@ -27,3 +27,6 @@ Nodejs installation include [npm](https://www.npmjs.com/) that would be used lat
     - Type `npm start`, this command is used to run the project
 
 5. Open your browser and go to http://localhost:3000 (the address may change depending on machine so please check your terminal for correct link)
+
+
+https://drive.google.com/file/d/1QylCOq-XeNMYu3FvVBLkC26St-IsNM66/view?usp=sharing
