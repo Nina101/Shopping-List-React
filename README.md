@@ -1,7 +1,7 @@
 # Shopping-List-React
 ## Introduction
 
-Demo of basic React by simple shopping list app
+Demo of basic React by simple shopping list app.
 The shopping list allow adding, crossing out, removing items from the list.
 
 Code pen version: https://codepen.io/hei123/pen/JmyXxz
