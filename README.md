@@ -30,3 +30,9 @@ Nodejs installation include [npm](https://www.npmjs.com/) that would be used lat
 
 
 https://drive.google.com/file/d/1QylCOq-XeNMYu3FvVBLkC26St-IsNM66/view?usp=sharing
+
+## Issues and suggested solutions
+1. Windows machine has `react-scripts start` error
+    - Delete node modules inside project folder
+    - On terminal or command prompt, type `npm install` then `npm start`
+    - Please try and let me know, thanks
